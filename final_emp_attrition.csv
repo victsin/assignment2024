@@ -1,0 +1,45 @@
+JobRole,Gender,EducationField,Average_MonthlyIncome,Max_MonthlyIncome,Min_MonthlyIncome,Average_YearsAtCompany,Employee_Count
+"Research Scientist",Male,"Life Sciences",3197.8800,9724,1223,5.3200,50
+"Laboratory Technician",Male,Other,3329.7273,4834,2090,3.9091,11
+"Research Scientist",Female,"Life Sciences",3357.2059,6545,1261,4.4118,34
+"Laboratory Technician",Male,Medical,3196.3696,5679,1904,5.0652,46
+"Laboratory Technician",Female,Medical,3311.0385,5769,1483,4.3846,26
+"Laboratory Technician",Male,"Life Sciences",3181.1400,6782,1281,4.8000,50
+"Manufacturing Director",Male,"Life Sciences",6790.7083,10976,4033,6.5417,24
+"Healthcare Representative",Male,Medical,7784.1667,13577,4741,8.6111,18
+"Laboratory Technician",Female,"Life Sciences",3047.6400,5674,1416,5.0400,25
+"Manufacturing Director",Female,"Life Sciences",7446.8571,13570,4148,6.7619,21
+"Sales Representative",Male,"Life Sciences",2874.2222,4400,2033,2.5556,9
+"Research Director",Female,"Life Sciences",14665.3750,18665,11416,6.8750,8
+"Research Scientist",Male,Medical,3174.2778,5974,1009,3.8333,36
+"Sales Executive",Male,Marketing,7345.0682,13695,4078,6.2955,44
+"Research Scientist",Female,Medical,3090.0313,5605,1514,5.0938,32
+"Sales Representative",Male,Marketing,2543.2500,3875,1675,2.1667,12
+"Sales Executive",Female,"Life Sciences",6792.5926,13212,4198,5.4444,27
+"Sales Executive",Male,"Life Sciences",7638.5588,13758,4115,7.0588,34
+"Laboratory Technician",Male,"Technical Degree",3117.1111,4876,2176,3.8889,9
+"Sales Executive",Female,Marketing,6400.4063,13525,4103,6.5938,32
+"Research Director",Female,Medical,14900.4286,19701,11031,12.1429,7
+Manager,Female,Medical,16646.8000,19187,11916,9.1000,10
+"Research Director",Male,Medical,16069.0625,19626,11691,8.8750,16
+"Human Resources",Male,Medical,5678.2857,10725,2177,6.5714,7
+"Manufacturing Director",Male,Medical,6715.1053,10845,4213,5.6842,19
+"Sales Representative",Male,"Technical Degree",3146.1667,6632,1091,2.6667,6
+"Healthcare Representative",Male,"Life Sciences",6853.5185,13503,4000,6.0741,27
+"Sales Executive",Female,Medical,5998.9333,13770,4162,8.6667,15
+"Sales Executive",Male,Medical,5838.4091,8834,4037,6.6364,22
+"Human Resources",Male,"Human Resources",3518.1818,6430,1555,3.5455,11
+"Research Scientist",Female,"Technical Degree",3040.0909,4968,2029,4.0909,11
+Manager,Male,"Life Sciences",17293.2857,19717,11849,19.4286,14
+"Sales Representative",Female,Marketing,2687.0000,3140,2231,2.5000,6
+Manager,Female,"Life Sciences",16404.1250,19926,11878,9.0000,8
+"Research Scientist",Male,"Technical Degree",2987.8500,5577,1274,5.3000,20
+"Manufacturing Director",Female,Medical,6848.9500,13247,4374,6.4500,20
+"Healthcare Representative",Female,Medical,7574.5833,13734,4244,5.9167,12
+"Research Director",Male,"Life Sciences",17046.6000,19502,12490,9.2000,10
+"Sales Representative",Female,"Life Sciences",2477.2500,3931,1359,2.1250,8
+"Sales Representative",Female,Medical,2554.0000,3540,1200,3.7143,7
+Manager,Male,Medical,17554.7778,19859,13610,14.8889,9
+"Healthcare Representative",Female,"Life Sciences",7493.8333,9985,4448,7.0000,6
+"Sales Executive",Male,Other,5840.1250,10932,4194,5.5000,8
+"Sales Executive",Male,"Technical Degree",8287.7500,13120,5326,6.7500,8
